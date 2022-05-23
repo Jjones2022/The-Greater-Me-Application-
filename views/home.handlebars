@@ -1,0 +1,46 @@
+<div class="container-fluid">
+  <div class="'row">
+    <div class="mx-auto" style="width: 200px;">
+
+    <div class="dropdown-item">
+      <button
+        class="btn btn-success dropdown-toggle"
+        type="button"
+        id="dropdownMenuButton1"
+        data-bs-toggle="dropdown"
+        aria-expanded="false"
+      >
+        Mental health
+      </button>
+      <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                
+        {{#each mental}}
+        <li><a class="dropdown-item"  value='{{id}}' id={{type}} href="#">{{type}}</a></li>
+        {{/each}}
+        
+      </ul>
+    </div>
+
+    <div class="dropdown-item">
+      <button
+        class="btn btn-primary dropdown-toggle"
+        type="button"
+        id="dropdownMenuButton2"
+        data-bs-toggle="dropdown"
+        aria-expanded="false"
+        selected="selected"
+      >
+        Physical health
+      </button>
+      <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton2">
+       {{#each physical}}
+        <li><a class="dropdown-item" value='{{id}}' id={{type}} href="#">{{type}}</a></li>
+  
+        {{/each}}
+      </ul>
+    </div>
+
+  </div>
+</div>
+
+<script src="/js/home.js"></script>

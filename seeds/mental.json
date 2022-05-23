@@ -1,0 +1,44 @@
+[
+  {
+    "type": "Prayer1",
+    "length": "5 minutes",
+    "url": "https://youtu.be/ew7MOgMMcvs",
+    "content": "Morning Prayer to inspire you!",
+    "title": "Uplifted Soul"
+  },
+  {
+    "type": "Meditation1",
+    "length": "20 minutes",
+    "url": "https://youtu.be/8vMEoPgg-PE",
+    "content": "Guided meditation",
+    "title": "You are life itself"
+  },
+  {
+    "type": "Prayer2",
+    "length": "10 minutes",
+    "url": "https://youtu.be/K1LBPguErxc",
+    "content": "Start Your Day with God!",
+    "title": "Powerful"
+  },
+  {
+    "type": "Meditation2",
+    "length": "10 minutes",
+    "url": "https://youtu.be/ZToicYcHIOU",
+    "content": "Guided meditatio",
+    "title": "Daily Calm"
+  },
+  {
+    "type": "Prayer3",
+    "length": "15 minutes",
+    "url": "https://youtu.be/Fq9g_TFTibM",
+    "content": "Begin Your Day with Prayer!",
+    "title": "Peace of Mind"
+  },
+  {
+    "type": "Meditation3",
+    "length": "10 minutes",
+    "url": "https://youtu.be/uTN29kj7e-w",
+    "content": "Guided meditation",
+    "title": "Start New Positive Habits"
+  }
+]

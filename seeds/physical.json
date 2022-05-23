@@ -1,0 +1,57 @@
+[
+  {
+    "type": "Resistance",
+    "dayOne": "[{'exercise':'Pushups','sets':'3','reps':'10'},{'exercise':'Situps','sets':'3','reps':'10'},{'exercise':'Squats','sets':'3','reps':'10'}",
+    "dayTwo": "[{'exercise':'Cable Crossovers','sets':'3','reps':'10'},{'exercise':'Overhead Press','sets':'3','reps':'10'},{'exercise':'Preacher Curls','sets':'3','reps':'8-10'}",
+    "dayThree": "Rest"
+  },
+  {
+    "type": "Balanced",
+    "dayOne": "[{'exercise':'High Stepping','sets':'3','reps':'20 Seconds'},{'exercise':'Mountain CLimbers','sets':'3','reps':'30 seconds'},{'exercise':'Abdominal Crunches','sets':'3','reps':'12'}",
+    "dayTwo": "[{'exercise':'Run','1 mile'},'Russian Twists','sets':'3', 'reps': '14'}",
+    "dayThree": "Rest"
+  },
+
+  {
+    "type": "Cardio",
+    "dayOne": "[{'exercise':'Run','1 mile'},'Jog','for':'1 mile'}",
+    "dayTwo": "[{'exercise':'Run','2 miles'},'Jumping Jacks','sets':'10','reps:5'}",
+    "dayThree": "Rest"
+  },
+  {
+    "type": "Resistance Level 2",
+    "dayOne": "[{'exercise':'Planks','sets':'3','seconds':'30-60'},{'exercise':'Crunches','sets':'3','reps':'15-20'},{'exercise':'Leg Curls','sets':'3','reps':'8-12'}",
+    "dayTwo": "[{'exercise':'Bicep Bar Curls','sets':'3','reps':'8-12'},{'exercise':'Lat Pull Downs','sets':'3','reps':'8-12'},{'exercise':'Leg Extension','sets':'3','reps':'8-12'}",
+    "dayThree": "Rest"
+  },
+  {
+    "type": "Balanced Level 2",
+    "dayOne": "[{'exercise':'Pushups','sets':'3','reps':'10'},{'exercise':'Situps','sets':'3','reps':'10'},{'exercise':'Squats','sets':'3','reps':'10'}",
+    "dayTwo": "[{'exercise':'Lying Twist Stretch','for': '30 seconds'},'Cobra Stretches','for':'30 seconds}",
+    "dayThree": "Rest"
+  },
+  {
+    "type": "Cardio Level 2",
+    "dayOne": "[{'exercise':'Run','1 1/2 miles'},'Jog','for':'2 miles'}",
+    "dayTwo": "[{'exercise':'Run','2 miles'},'Walk','for':'2 Hours'}",
+    "dayThree": "Rest"
+  },
+  {
+    "type": "Resistance Level 3",
+    "dayOne": "[{'exercise':'Bench Press','sets':'3','reps':'6-8'},{'exercise':'Lateral Raises','sets':'3','reps':'10-20'},{'exercise':'Deadlift','sets':'3','reps':'8-12'}",
+    "dayTwo": "[{'exercise':'Seated Shoulder Press','sets':'3','reps':'8-12'},{'exercise':'Triceps Extension','sets':'3','reps':'8-12'},{'exercise':'Hammer Curls','sets':'3','reps':'8-12'}",
+    "dayThree": "Rest"
+  },
+  {
+    "type": "Balanced Level 3",
+    "dayOne": "[{'exercise':'Pushups','sets':'3','reps':'10'},{'exercise':'Situps','sets':'3','reps':'10'},{'exercise':'Squats','sets':'3','reps':'10'}",
+    "dayTwo": "[{'exercise':'Jumping Jacks','40 seconds'},'Leg Raises','reps':'25'}",
+    "dayThree": "Rest"
+  },
+  {
+    "type": "Cardio Level 3",
+    "dayOne": "[{'exercise':'Run','2 miles'},'Walk','for':'3 miles'}",
+    "dayTwo": "[{'exercise':'Run','2 miles'},'Treadmill','for':'1 Hour'}",
+    "dayThree": "Rest"
+  }
+]
